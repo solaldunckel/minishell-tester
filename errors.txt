@@ -1,0 +1,6 @@
+echo "\$TEST" :
+You should have returned "$TEST" instead of "\$TEST"
+
+echo "$?TEST" :
+You should have returned "0TEST" instead of ""
+
