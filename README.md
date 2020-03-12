@@ -24,7 +24,7 @@
 - ``unset``
 - ``exit status ($?)``
 
-## What should I test by myself ?
+## What should you test by yourself ?
 
 Almost everything :) This tester is not perfect and is not checking ``leaks`` and ``error messages``.<br>
 It's there to show you a few errors that can occurs.
