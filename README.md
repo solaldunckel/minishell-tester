@@ -20,6 +20,9 @@
 - ``| pipes``
 - ``; separator``
 - ``env expansions``
+- ``export``
+- ``env``
+- ``unset``
 - ``exit status ($?)``
 
 ## What should I test by myself ?
