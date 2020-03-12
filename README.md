@@ -3,7 +3,6 @@
 ## Requirements
 
 - You must have your prompt and any other message/banner printed on ``STDERR`` (like bash)
-- Your minishell must exit when an EOF is received by your ``read`` inside your program (the CTRL-D part)
 
 ## Usage
 
